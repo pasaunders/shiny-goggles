@@ -1,0 +1,8 @@
+C:\Users\Patrick\code\csharp\survey\bin\Debug\netcoreapp1.1\survey.deps.json
+C:\Users\Patrick\code\csharp\survey\bin\Debug\netcoreapp1.1\survey.runtimeconfig.json
+C:\Users\Patrick\code\csharp\survey\bin\Debug\netcoreapp1.1\survey.runtimeconfig.dev.json
+C:\Users\Patrick\code\csharp\survey\bin\Debug\netcoreapp1.1\survey.dll
+C:\Users\Patrick\code\csharp\survey\bin\Debug\netcoreapp1.1\survey.pdb
+C:\Users\Patrick\code\csharp\survey\obj\Debug\netcoreapp1.1\survey.AssemblyInfo.cs
+C:\Users\Patrick\code\csharp\survey\obj\Debug\netcoreapp1.1\survey.dll
+C:\Users\Patrick\code\csharp\survey\obj\Debug\netcoreapp1.1\survey.pdb
